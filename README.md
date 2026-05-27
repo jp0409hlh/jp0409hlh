@@ -1,8 +1,10 @@
 ## Hi there 👋
-# About me 
+### About me 
+I'm a student at NTUEE.
+- Interested in : Hardware design, Bare-bone programming.
 - Languages im expert in : None
 - Languages im working on improving: C, C++, python, bash
-- Languages i wish to learn in the future: Java, C#, R, Matlab,Haskell, x86 asm, ARM asm, verilog 
+- Languages i wish to learn in the future: Java, C#, R, Matlab, Lisp, Fortran, x86 asm, ARM asm, verilog 
 <!--
 **jp0409hlh/jp0409hlh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
